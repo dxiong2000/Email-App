@@ -7,4 +7,4 @@ Some functionalities implemented are: email viewing, starring emails, moving ema
 
 <img src="https://i.imgur.com/yCCLrEo.png"
      alt="App Demo"
-     style="align: center; margin-right: 10px;" />
+     style="margin-left: 20px; height: 200px; width: 75px;" />
