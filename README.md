@@ -4,7 +4,4 @@ This web app was created using the NERP stack (Node, Express, React, PostgreSQL)
 
 Some functionalities implemented are: email viewing, starring emails, moving emails, deleting emails, email search, custom mailbox creation.
 
-
-<img src="https://i.imgur.com/yCCLrEo.png"
-     alt="App Demo"
-     style="margin-left: 20px; height: 100px; width: 75px;" />
+![](https://i.imgur.com/yCCLrEo.png =200x75)
